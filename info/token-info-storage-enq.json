@@ -1,7 +1,7 @@
 [
     {
-        "token_id":"0000000000000000000000000000000000000000000000000000000000000000",
-        "website":"https://enecuum.com",
+        "token_id":"c3f84fd14318f4c3e0ceed26fb56e568233e7867a0e3eb6c4120ff3d4106323f",
+        "website":"https://www.fonecoin.io/",
         "logo": "enq-color.png",
         "media": {                            
             "twitter": "https://twitter.com/enq_enecuum",
@@ -16,10 +16,10 @@
             "telegram": "https://t.me/Enecuum_EN"
         },
         "documents": {
-            "whitepaper": "https://enecuum.com/pdf/pp_en.pdf"
+            "whitepaper": "https://www.fonecoin.io/about"
         },     
         "description": {
-            "en": "ENQ is used in Pulse Network and can be mined in Enecuum's mobile mining application utilizing the Proof-of-Activity algorithm.",
+            "en": "A decentralised blockchain infrastructure and exchangeable cryptocurrency (FON) for mobile service providers worldwide to post offers direct to customers for voice, text and data as well as complementary products and services via one simple user-centric interface, eliminating being locked into your home country’s high cost contract when traveling abroad.",
             "de": "ENQ is used in Pulse Network and can be mined in Enecuum's mobile mining application utilizing the Proof-of-Activity algorithm.",
             "fr": "ENQ is used in Pulse Network and can be mined in Enecuum's mobile mining application utilizing the Proof-of-Activity algorithm.",
             "ru": "ENQ is used in Pulse Network and can be mined in Enecuum's mobile mining application utilizing the Proof-of-Activity algorithm.",
